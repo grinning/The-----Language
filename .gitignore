@@ -1,0 +1,8 @@
+#things with dots
+*.
+#except gitignore
+
+!.gitignore
+
+#compiled files
+*.o
